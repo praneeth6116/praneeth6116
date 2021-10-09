@@ -5,6 +5,7 @@
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a>
   <br />
 ### About Me 🚀
-I am sophomore at IIT ROORKEE persuing cse.
-![praneeth's github stats](https://github-readme-stats.vercel.app/api?username=praneeth6116&show_icons=true&hide_border=true)
+🎓I am sophomore at IIT ROORKEE persuing cse.
 <br />
+![praneeth's github stats](https://github-readme-stats.vercel.app/api?username=praneeth6116&show_icons=true&hide_border=true)
+
