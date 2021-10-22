@@ -8,4 +8,4 @@
 🎓I am sophomore at IIT ROORKEE persuing Computer science and enginnering.
 <br />
 ![praneeth's github stats](https://github-readme-stats.vercel.app/api?username=praneeth6116&show_icons=true&hide_border=true)
-
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=praneeth6116.praneeth6116)
